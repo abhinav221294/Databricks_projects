@@ -1,5 +1,8 @@
-api link for schema   https://ergast.com/images/ergast_db.png
-Databricks Case Study Formula 1
+# Databricks Case Study Formula 1
+
+<img width="1006" height="438" alt="ER_Diagram" src="https://github.com/user-attachments/assets/07048b1c-c5e9-43c2-ac18-4e538a789f43" />
+
+
 
 1) Formula 1 Datasources and Datasets
 2) Prepare the data for our Project.
