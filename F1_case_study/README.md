@@ -1,5 +1,7 @@
 # Databricks Case Study Formula 1
 
+## ER Diagram for Case Study
+
 <img width="1006" height="438" alt="ER_Diagram" src="https://github.com/user-attachments/assets/07048b1c-c5e9-43c2-ac18-4e538a789f43" />
 
 <br><br>  <!-- Add extra <br> for more vertical space -->
@@ -7,6 +9,8 @@
 <img width="1157" height="351" alt="ER_Diagram2" src="https://github.com/user-attachments/assets/b48e466d-7e01-4e3a-9eec-41d812df5a31" />
 
 
+
+<br><br>  <!-- Add extra <br> for more vertical space -->
 
 1) Formula 1 Datasources and Datasets
 2) Prepare the data for our Project.
